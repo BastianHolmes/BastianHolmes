@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Sebholmes/Sebholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Sebastian</h1>
+<h3 align="center">A frontend developer from Saint-Petersburg</h3>
 
-Here are some ideas to get you started:
+## ⚒️ Tools
+### Frontend web development 
+- TypeScript
+- React.js
+- SM: Redux toolkit
+- Styling: Material UI, Next UI
+- Vite, Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend web development 
+- Node js, express
+- MongoDB, Postgres
+
+## 📅 Hobbies
+- Solve programming problems at Codewars
+- Watching french movies
+- Listening rock music
+
+## 💻 Current projects
+- [Dashboard](https://github.com/Sebholmes/dashboard)
+- [Chess]()
+- [Moofy](https://github.com/reversoid/moofy)
+
