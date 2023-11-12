@@ -21,6 +21,6 @@
 
 ## 💻 Current projects
 - [Dashboard](https://github.com/Sebholmes/dashboard)
-- [Chess](https://github.com/Sebholmes/chess)
+- [Project-manager](https://github.com/Sebholmes/project-manager)
 - [Moofy](https://github.com/reversoid/moofy)
 
