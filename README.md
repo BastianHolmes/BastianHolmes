@@ -2,13 +2,17 @@
 <h1 align="center">Hi, I'm Sebastian</h1>
 <h3 align="center">A frontend developer from Saint-Petersburg</h3>
 
+<h4 align="center">I have <b>2 year</b> experience developing smooth and marvelous web-applications</h3>
+
 ## ⚒️ Tools
 ### Frontend web development 
 - TypeScript
 - React.js
-- SM: Redux toolkit
-- Styling: Material UI, Next UI
+- SM: Redux toolkit, Zustand, Effector
+- React Query, RTK-Query
+- Styling: Material UI, Next UI, Mantine, Shadcn and more
 - Vite, Webpack
+- i18n, opentype.js, three.js etc
 
 ### Backend web development 
 - Node js, express
@@ -17,10 +21,6 @@
 ## 📅 Hobbies
 - Solve programming problems at Codewars
 - Watching french movies
-- Listening rock music
+- Listening Radiohead
 
-## 💻 Current projects
-- [Dashboard](https://github.com/Sebholmes/dashboard)
-- [Project-manager](https://github.com/Sebholmes/project-manager)
-- [Moofy](https://github.com/reversoid/moofy)
 
