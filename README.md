@@ -13,6 +13,7 @@
 - Styling: Material UI, Next UI, Mantine, Shadcn and more
 - Vite, Webpack
 - i18n, opentype.js, three.js etc
+- REST, GraphQL (Apollo)
 
 ### Backend web development 
 - Node js, express
