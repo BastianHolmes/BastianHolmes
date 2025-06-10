@@ -4,8 +4,8 @@
 
 ## ⚒️ My everyday tools
 - Frontend: Typescript, React, Next
-- Backend: Typescript with Nest, Go
-- Storage: Postgres, MongoDB, S3
+- Backend: Golang, Typescript with Nest
+- Storage: Postgres, MongoDB, S3, Kafka, Redis
 - CI/CD: Docker, Github actions
 
 
